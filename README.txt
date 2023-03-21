@@ -1,5 +1,4 @@
-# vim: set ft=rst:
+Admin username and password:
 
-See https://help.pythonanywhere.com/ (or click the "Help" link at the top
-right) for help on how to use PythonAnywhere, including tips on copying and
-pasting from consoles, and writing your own web applications.
+user: thejacksinclair2
+password: WebAppTest
