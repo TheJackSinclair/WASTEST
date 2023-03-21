@@ -55,7 +55,7 @@ ROOT_URLCONF = 'WAS_TEST.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['/home/TheJackSinclair2/WAS_TEST/templates/'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
